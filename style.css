@@ -1,0 +1,79 @@
+#answerbox
+{
+    height: 40px;
+    width: 43%;
+  background-color: ghostwhite;
+}
+body
+{
+
+   background-color: cornflowerblue;
+}
+
+#answer-div
+{
+    padding-left: 380px;
+    padding-top: 4cm;
+    padding-bottom: 0.2cm;
+}
+
+#all-btns
+{
+    padding-left: 380px;
+    padding-right: 10px;
+
+}
+button
+{
+    height: 40px;
+    width: 65px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: ghostwhite;
+    border-color: black;
+}
+#outer-div
+{
+    border-color: black;
+    border-bottom: 10px;
+
+}
+#btn0,#btn1,#btn2,#btn3,#btn4,#btn5,#btn6,#btn7,#btn8,#btn9,#btn-Equal
+{
+    background-color: black;
+
+}
+#btn-C
+{
+    background-color: red;
+    border-color: red;
+}
+#btn-division
+{
+    background-color: green;
+    border-color: green;
+}
+#btn-multiply
+{
+    background-color: blue;
+    border-color: blue;
+}
+#btn-negative
+{
+    background-color:purple;
+    border-color: purple;
+}
+#btn-plus
+{
+    background-color:chocolate;
+    border-color: chocolate;
+}
+#first-row,#second-row,#third-row,#fourth-row
+{
+    padding-bottom: 0.2cm;
+}
+
+
+
+
+
